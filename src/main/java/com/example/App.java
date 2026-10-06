@@ -6,7 +6,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-        System.out.println("Hello from Maven Java Project!");
+        System.out.println("Hello from Maven Java");
         System.out.println("2 + 3 = " + add(2, 3));
     }
 }
